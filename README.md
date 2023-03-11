@@ -1,0 +1,1 @@
+Wir vertiefen gemeinsam in einem 1,5 Tage Workshop unsere Python-Kenntnise
