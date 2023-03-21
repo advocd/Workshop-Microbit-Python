@@ -1,4 +1,4 @@
-
+# Session 0 <!-- omit from toc --> 
 - [Ziele](#ziele)
 - [Werte](#werte)
 - [Werkzeuge](#werkzeuge)
