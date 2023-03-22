@@ -10,6 +10,7 @@
 - [VS Code Extensions installieren](#vs-code-extensions-installieren)
   - [Microsoft Python Extension](#microsoft-python-extension)
   - [micro:bit von Joseph Fergusson](#microbit-von-joseph-fergusson)
+  - [IntelliCode](#intellicode)
 
 
 ## Python und pip installieren
@@ -53,9 +54,16 @@ Außerdem können wir darüber auf Code anderer Entwickler*innen zugreifen.
 ## VS Code Extensions installieren
 
 ### Microsoft Python Extension
+Erleichtert das Arbeiten mit Python Code.
 1. Im Reiter "Extensions" in der Suchleiste "Python" eingeben.
 2. Microsoft Python Extension installieren.
 
 ### micro:bit von Joseph Fergusson
+Erlaubt das Arbeiten mit dem microbit.
 1. Im Reiter "Extensions" in der Suchleiste "microbit" eingeben.
 2. micro:bit Erweiterung von Joseph Fergusson installieren.
+   
+### IntelliCode
+AI-gestützte Ergänzungsvorschläge beim Coden.
+1. Im Reiter "Extensions" in der Suchleiste "IntelliCode" eingeben.
+2. Microsoft IntelliCode Extension installieren.
