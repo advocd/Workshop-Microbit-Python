@@ -11,6 +11,8 @@
   - [Microsoft Python Extension](#microsoft-python-extension)
   - [micro:bit von Joseph Fergusson](#microbit-von-joseph-fergusson)
   - [IntelliCode](#intellicode)
+  - [micro:bit Python von MAKinteract](#microbit-python-von-makinteract)
+  - [Serial Monitor von Microsoft](#serial-monitor-von-microsoft)
 
 
 ## Python und pip installieren
@@ -67,3 +69,18 @@ Erlaubt das Arbeiten mit dem microbit.
 AI-gestützte Ergänzungsvorschläge beim Coden.
 1. Im Reiter "Extensions" in der Suchleiste "IntelliCode" eingeben.
 2. Microsoft IntelliCode Extension installieren.
+
+### micro:bit Python von MAKinteract
+Anleitung schriftlich: 
+https://marketplace.visualstudio.com/items?itemName=MAKinteract.micro-bit-python
+
+cooles Video mit Beispielen: https://www.youtube.com/watch?v=eSGJLu1kqyg
+
+### Serial Monitor von Microsoft
+- nach der Installation VSCode neustarten
+- findet sich anschließend unter Terminal --> Serial Monitor 
+- Einstellungen passen (unter Windows)
+  - Com4 
+  - Baud 115200
+  - Line ending none
+- auf "Start Monitoring" drücken
