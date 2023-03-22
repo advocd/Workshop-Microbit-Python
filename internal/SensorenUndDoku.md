@@ -1,5 +1,7 @@
 # Sensoren und Dokumentation <!-- omit from toc --> 
 
+- [Sensoren Kit](#sensoren-kit)
+- [MicroPython Dokumentation](#micropython-dokumentation)
 
 ## Sensoren Kit
 - Sensor Shield - Verbinder zwischen Microbit und Sensoren: https://wiki.keyestudio.com/index.php/Ks0360_Keyestudio_Sensor_Shield_V2_for_BBC_micro:bit
