@@ -1,40 +1,11 @@
 from microbit import i2c, sleep
-from scan_for_i2c_addr import *
+# from scan_for_i2c_addr import *
 
 
 #set LCD Address
-# LCD_I2C_ADDR=0x27
-LCD_I2C_ADDR=scanner()
-LCD_I2C_ADDR=scanner()
-
+LCD_I2C_ADDR=0x27
 
 #Source: https://github.com/shaoziyang/microbit-lib/blob/master/lcd/I2C_LCD1602/mb_i2c_lcd1602.py
-
-class Mensch():
-    anzahlDerKnochen=234
-
-
-    def __str__(self):
-        return self._name + " alter: " + str(self._alter)
-        
-    def __init__(self, name="Anonymos", alter=19):
-        """Form a complex number.
-
-        Keyword arguments:
-        alter = dein Alter
-        name = dein Name
-        """
-        self._name = name
-        self._alter = alter
-        self._adr=LCD_I2C_ADDR
-
- 
-    def getName(self):
-        return self._name
-    
-    def getAlter(self):
-        return self._alter
-
 
 class LCD1620():
     def __init__(self):
@@ -54,9 +25,6 @@ class LCD1620():
         self.setcmd(0x06)
         self.setcmd(0x01)
         self.version='1.0'
-
-        
-
 
     def setReg(self, dat):
         self.buf[0] = dat
