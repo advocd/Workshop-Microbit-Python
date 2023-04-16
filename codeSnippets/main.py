@@ -1,8 +1,5 @@
-import microbit
-import testMartin
-from mb_i2c_lcd1602 import LCD1620
+# from lcd1602_i2c import LCD1620
+import lcd1602_i2c
 
-rocket = testMartin.myfile.Rocket()
-print(rocket.say_my_name())
-# l = LCD1620()
-# l.puts(rocket.say_my_name())
+l = lcd1602_i2c.LCD1620()
+l.puts("asdf")
