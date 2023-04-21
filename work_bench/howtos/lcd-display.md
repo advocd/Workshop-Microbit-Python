@@ -7,14 +7,15 @@ Der Microbit kommuniziert mit dem Display via der I2C Verbindung, welche auf der
 
 ## Verkabelung 
 
-![](../../internal/img/wired/lcd-display.png)
-Abb.: [Handbuch KS0365 Sensor Kit](../../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
+![](img/wired/lcd-display.png)
+Abb.: [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
 
 ---
 
 ## Code
 
 ```python 
+from microbit import *
 import lcd1602_i2c
 #Alias vergeben
 l = lcd1602_i2c.LCD1620()
@@ -47,7 +48,7 @@ while True:
 
 ## Quellen 
 
-- [Handbuch KS0365 Sensor Kit](../../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
+- [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
   
 - Quellcode: angepasst auf Basis von: https://github.com/shaoziyang/microbit-lib/tree/master/lcd/I2C_LCD1602
 

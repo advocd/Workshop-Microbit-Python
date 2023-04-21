@@ -13,8 +13,8 @@ Bild und Quellenangabe der Verkabelung
 
 Bsp.: 
 
-![](../../internal/img/wired/lcd-display.png)
-Abb.: [Handbuch KS0365 Sensor Kit](../../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
+![](img/wired/lcd-display.png)
+Abb.: [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
 -->
 
 ---
@@ -74,7 +74,7 @@ Bitte alle Quellen angeben
 
 Beispiel: 
 
-- [Handbuch KS0365 Sensor Kit](../../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
+- [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 218 ff
   
 - Quellcode: angepasst auf Basis von: https://github.com/shaoziyang/microbit-lib/tree/master/lcd/I2C_LCD1602
 

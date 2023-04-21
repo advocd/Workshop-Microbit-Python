@@ -1,4 +1,4 @@
-# from microbit import *
+from microbit import *
 import lcd1602_i2c
 #Alias vergeben
 l = lcd1602_i2c.LCD1620()
