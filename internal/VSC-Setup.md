@@ -6,10 +6,8 @@
   - [Python Variante 2](#python-variante-2)
   - [pip](#pip)
 - [uflash installieren](#uflash-installieren)
-- [git installieren](#git-installieren)
 - [VS Code Extensions installieren](#vs-code-extensions-installieren)
   - [Microsoft Python Extension](#microsoft-python-extension)
-  - [micro:bit von Joseph Fergusson](#microbit-von-joseph-fergusson)
   - [IntelliCode](#intellicode)
   - [micro:bit Python von MAKinteract](#microbit-python-von-makinteract)
   - [Serial Monitor von Microsoft](#serial-monitor-von-microsoft)
@@ -25,6 +23,8 @@
 
 ### Python Variante 1
 Per Download von [python.org](https://www.python.org/downloads/)
+
+**bei der Installation darauf achten das Python zum PATH hinzugefügt wird**
 
 ### Python Variante 2
 Per Kommandozeile. Befehle variieren abhängig vom Betriebssystem.
@@ -44,14 +44,14 @@ auf den micro:bit zu laden.
 
 `pip install uflash`
 
-## git installieren
+<!-- ## git installieren
 git ist eine freie Software zur Verwaltung von Dateiversionen. Sie erlaubt
 es uns, den Verlauf von Änderungen an unserem Code zu sichern. Das heißt
 beispielsweise, dass es möglich ist zu älteren Versionen zurückzukehren.
 Außerdem können wir darüber auf Code anderer Entwickler*innen zugreifen.
 
 1. Mit `git -V` überprüfen ob git bereits installiert ist.
-2. Anleitung folgen, oder [herunterladen](https://git-scm.com/downloads)
+2. Anleitung folgen, oder [herunterladen](https://git-scm.com/downloads) -->
 
 ## VS Code Extensions installieren
 
@@ -60,10 +60,10 @@ Erleichtert das Arbeiten mit Python Code.
 1. Im Reiter "Extensions" in der Suchleiste "Python" eingeben.
 2. Microsoft Python Extension installieren.
 
-### micro:bit von Joseph Fergusson
+<!-- ### micro:bit von Joseph Fergusson
 Erlaubt das Arbeiten mit dem microbit.
 1. Im Reiter "Extensions" in der Suchleiste "microbit" eingeben.
-2. micro:bit Erweiterung von Joseph Fergusson installieren.
+2. micro:bit Erweiterung von Joseph Fergusson installieren. -->
    
 ### IntelliCode
 AI-gestützte Ergänzungsvorschläge beim Coden.
