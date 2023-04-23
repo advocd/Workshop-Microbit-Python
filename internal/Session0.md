@@ -7,6 +7,7 @@
 - [Vorbereiten](#vorbereiten)
 - [Termine \& Deadlines](#termine--deadlines)
 - [Erreichbarkeiten \& Kommunikation](#erreichbarkeiten--kommunikation)
+- [Anmerkungen Ablauf](#anmerkungen-ablauf)
 
 
 ## Ziele 
@@ -102,9 +103,13 @@
     - VS Code Anbindung --> Microbit
   - Martin
     - High Low Game
-    - Projektarbeit
-    - Welcome 
-    - GIT
+    - [x] Projektarbeit - Powerpoint Folien unter slides
+    - [x] Welcome - Powerpoint Folien unter slides
+    - [x] GIT
+    - VS Code im allgemeinen 
+    - Sensoren
+    - Analog vs Digital
+    - 
 
 **Dokumentation**
 - Markdown --> Github Repo
@@ -126,3 +131,28 @@
     - Organisatorisch
     - Projektzeit
       - rudimentäre Unterstützung (5min)
+
+## Anmerkungen Ablauf
+
+**Vorstellen** 
+- Welche Schule
+- Welche Fächer
+- Erfahrungen
+- Namensschilder? 
+
+**Sachen installieren**
+- an einem Gerät von einer Teilnehmenden Person machen
+
+**Abend 1. Tag - gemeinsam planen für 2. Tag**
+- schauen wie es gelaufen ist
+- Inhalte und Vorgehen gemeinsam definieren 
+
+**Vorgehen Tag 2**
+- Visual Studio Microbit Anbindung 
+- mit Microbit eigenen Sachen programmieren
+- Übersicht über alle Sensoren (1 Satz jeweils)
+- Analog vs Digital
+- Shield vorstellen
+- Gruppen - Sensor einbinden
+- [optional] Szenarios für Projekte
+- Vorbereitung Seminararbeit/Projekt

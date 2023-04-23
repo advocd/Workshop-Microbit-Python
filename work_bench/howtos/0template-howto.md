@@ -18,6 +18,10 @@ Abb.: [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microb
 
 <!--- code Beispiel: kann später von Github copy & pasted werden  -->
 
+```python
+
+```
+
 ---
 
 ## Mögliche Probleme

@@ -1,6 +1,7 @@
 # LCD Display - Howto
 
 ## Überblick
+
 Der Microbit kommuniziert mit dem Display via der I2C Verbindung, welche auf der Rückseite des Displays befestigt ist. 
 
 ---
