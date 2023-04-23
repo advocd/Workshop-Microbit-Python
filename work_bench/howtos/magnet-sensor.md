@@ -11,6 +11,8 @@ Mit dem reed Sensor können wir Magnetfelder erkennen.
 
 <!--- Bild und Quellenangabe der Verkablung -->
 
+![](img/wired/reed-sensor.png)
+
 Abb.: [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 158 
 
 ---
