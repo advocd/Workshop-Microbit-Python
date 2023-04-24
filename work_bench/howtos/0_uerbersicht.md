@@ -1,11 +1,12 @@
-- 1: Microbit Sensor Shield V2
+- 1: [Microbit Sensor Shield V2](1_sensor-shield.md) [Work in Progress]
+
 - 5: [RGB LED Module](rgb-led.md)
 
 - 7: Photocell Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 168
 
 - 9: Analog Rotation Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 178
 
-- 11: Active Buzzer Module [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 153
+- 11: [Aktiv Buzzer Modul](active-buzzer.md)
 
 - 12: Digital Push Button [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 128
 
