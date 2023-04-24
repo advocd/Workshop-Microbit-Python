@@ -46,7 +46,7 @@ pin0.write_analog(0)
 while True:
     pin1.write_analog(1023)
     sleep(2000)
-    pin1.write_analog(1023)
+    pin1.write_analog(0)
     pin2.write_analog(1023)
     sleep(2000)
     pin2.write_analog(0)
