@@ -10,15 +10,15 @@
 
 - 12: [Digital Push Button](12_digtal-push-button.md)
 
-- 15: Capacitive Touch Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 136
+- 15: [Capacitive Touch Sensor](15_capacitive-touch-sensor.md)
 
 - 18: Line Tracking Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 143 (**Fehler in Beschreibung**)
 
-- 19: Infrared Obstacle Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 147
+- 19: [Infrarot Hindernis Sensor](19_infrarot-hindernis-sensor.md)
 
-- 20: PIR Motion Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 149
+- 20: [Bewegungsmelder](20_bewegungsmelder.md)
 
-- 21: Flame Sensor [Handbuch KS0365 Sensor Kit](../material/keystudio/KS0361(KS0365)%20Microbit%20V2.0%20Sensor%20Learning%20Kit.pdf) S. 153
+- 21: [Flammensensor](21_flammensensor.md)
   
 - 25: [Magnet-Sensor Reed-Sensor](25_magnet-sensor.md) 
 
