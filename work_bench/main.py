@@ -1,14 +1,6 @@
-from microbit import display, Image, pin0
+from microbit import pin0, sleep
 
 while True:
-    """
-    hier ist auch pin0.read_digital() möglich, 
-    dann ist der Wert aber 0 und 1 (Int) und nicht 
-    True oder False
-    """
-    if pin0.is_touched():
-        display.show(Image.HEART)
-        print("touched")
-    else:
-        display.show(Image.HEART_SMALL)
-        print('not touched')
+    s = pin0.read_analog()
+    sleep(1000)
+    print("Lautstärke:",s)
